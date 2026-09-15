@@ -8,6 +8,7 @@ to help support teams investigate customer issues.
 
 🚧 Currently under development
 
+
 ## Planned Features
 
 - Python backend
@@ -23,6 +24,29 @@ to help support teams investigate customer issues.
 - Docker
 - CI/CD
 - Cloud deployment
+
+## Current Features
+
+- FastAPI backend
+- REST API endpoints
+- PostgreSQL database
+- Customer management
+- Order management
+- Product management
+- Support ticket management
+- SQL-based data validation
+
+## Database
+
+The application uses PostgreSQL to store:
+
+- Customers
+- Orders
+- Products
+- Support tickets
+
+The database uses foreign-key relationships
+to maintain data integrity.
 
 ## Technology Stack
 
